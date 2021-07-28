@@ -1,4 +1,6 @@
-![logo](https://repository-images.githubusercontent.com/302921248/58478900-0adf-11eb-8f0b-74be58a898ef)
+A pug/sass version from the excellent [starter kit](https://github.com/5t3ph/11ty-sass-skeleton)
+
+ ![logo](https://repository-images.githubusercontent.com/302921248/58478900-0adf-11eb-8f0b-74be58a898ef)
 
 # 11ty Sass Skeleton
 
